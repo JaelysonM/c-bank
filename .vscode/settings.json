@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "accountcontroller.h": "c",
+    "account.h": "c",
+    "pagescontroller.h": "c",
+    "pages.h": "c",
+    "string.h": "c",
+    "arraylist.h": "c",
+    "jmplib.h": "c"
+  }
+}
